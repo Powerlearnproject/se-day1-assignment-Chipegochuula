@@ -20,8 +20,15 @@ ANSWER:
 6. Maintenance: Updating and fixing software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
+ANSWER: Waterfall: A linear approach where each phase of development must be completed before the next begins. It is suited for projects with clear, unchanging requirements. Example: Developing a flight control system for an airplane where safety and specifications must be rigidly defined.
+Agile: An iterative approach where development is broken into smaller cycles (sprints). It is suitable for projects where requirements evolve over time.
+Example: Building a mobile app where user feedback may lead to changes and updates frequently.
 
 Describe the roles and responsibilities of a Software Developer, a Quality Assurance Engineer, and a Project Manager in a software engineering team.
+ANSWER: Software Developer: Responsible for writing and maintaining the code, turning designs into functional software.
+Quality Assurance Engineer: Ensures the software is free of defects by conducting tests, finding bugs, and verifying that the software meets quality standards.
+Project Manager: Manages the timeline, resources, and communication among stakeholders, ensuring the project is completed within scope and on time.
+
 
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
 ANSWER: Integrated Development Environments (IDEs): Software tools that provide comprehensive facilities to programmers for software development. They improve productivity by providing a platform that integrates code writing, debugging, and testing. 
