@@ -5,8 +5,19 @@ Explain what software engineering is and discuss its importance in the technolog
 ANSWER: Software engineering is a systematic approach to the development, operation, maintenance, and retirement of software systems. It encompasses the principles, methodologies, and tools used to ensure that software is reliable, efficient, and scalable. Software engineering aims to apply engineering principles to software creation, ensuring high-quality and cost-effective software solutions.
 
 Identify and describe at least three key milestones in the evolution of software engineering.
+ANSWER: 
+1. The Birth of Software Engineering (1968): The term "software engineering" was coined at a NATO conference to address the "software crisis" — the challenges of developing complex, reliable software.
+2. Object-Oriented Programming (1970s): The introduction of object-oriented programming revolutionized the way software was designed, focusing on data encapsulation and modularity, which enhanced code reusability and maintainability.
+3. Agile Methodology (2001): Agile methods transformed software development by emphasizing iterative progress, collaboration, and flexibility, which was a shift from the rigid, linear approaches like the Waterfall model.
 
 List and briefly explain the phases of the Software Development Life Cycle.
+ANSWER:
+1. Requirement Gathering: Understanding what the software needs to do.
+2. Design: Planning the architecture and system components.
+3. Implementation: Writing the code that makes up the software.
+4. Testing: Ensuring the software works as intended without bugs.
+5. Deployment: Releasing the software to users.
+6. Maintenance: Updating and fixing software after deployment.
 
 Compare and contrast the Waterfall and Agile methodologies. Provide examples of scenarios where each would be appropriate.
 
