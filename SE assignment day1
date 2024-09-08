@@ -37,8 +37,18 @@ Example: Visual Studio, IntelliJ IDEA.
 Example: Git, Subversion.
 
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
+ANSWER: 1. Scope Creep: Uncontrolled changes or continuous growth in a project’s scope.
+Strategy: Clear requirements and regular communication with stakeholders.
+2. Technical Debt: Accumulation of shortcuts in code that compromise long-term quality.
+Strategy: Invest time in refactoring code regularly.
+3. Complexity Management: Handling the increasing complexity of modern software systems.
+Strategy: Adopt modular design and use software patterns.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
+ANSWER: Unit Testing: Testing individual components or functions.
+Integration Testing: Testing how components interact with each other.
+System Testing: Testing the entire system to ensure it works end-to-end.
+Acceptance Testing: Verifying if the software meets the specified requirements from the user's perspective.
 
 #Part 2: Introduction to AI and Prompt Engineering
 
